@@ -23,7 +23,7 @@
     <dr><p>Еууу</p>
     <article><p>Допустим <ins>этo</ins> текст который я написал и просто так я ушел.</p></article>
 <p>Допустим <del>это </del> текст который я написал и просто так я ушел.</p>
-<a href="http://htmlbook.ru/samcss/sposoby-dobavleniya-stiley-na-stranitsu">
+<a href="https://htmlbook.ru/samcss/sposoby-dobavleniya-stiley-na-stranitsu">
 <p style="color:pink; font-size:300px;">Ария не ария</p>
 </a>
 <audio src="https://muzup.ru/uploads/music/2020/08/ricky-desktop-the-banjo-beat-mp3.mp3" controls>
