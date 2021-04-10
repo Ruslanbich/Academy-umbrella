@@ -1,4 +1,3 @@
-# Academy-umbrellа
 <!DOCTYPE html>
 <html lang="en">
   <head>
